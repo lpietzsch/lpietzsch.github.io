@@ -5,16 +5,13 @@ module.exports = {
       {to: "/lifestyle", name: "Lifestyle"},
       {to: "/blog", name: "blog"},
     ],
-    title: "TYRA",
+    title: "Lara Pietzsch",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
-    siteUrl: "https://tyra-starter.netlify.com",
+    siteUrl: "https://lara-pietzsch.de",
     homepageHeader: "Welcome to Your New Blog",
     homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
-    mailChimpUrl: "https://mailchimp.com",
-    mailChimpToken: "MAILCHIMP TOKEN HERE",
-    pinterest: "", // YOUR PINTEREST PROFILE HERE
-    facebook: "", // YOUR FACEBOOK PROFILE HERE
-    twitter: "", // YOUR TWITTER PROFILE HERE
+    xing: "https://www.xing.com/profile/Lara_Pietzsch",
+    twitter: "https://twitter.com/lara_pietzsch",
   },
   plugins: [
     'gatsby-plugin-sitemap',
@@ -113,7 +110,7 @@ module.exports = {
         anonymize: true,
         respectDNT: true,
         exclude: ['/success'],
-        cookieDomain: "tyra-starter.netlify.com",
+        cookieDomain: "lara-pietzsch.de",
       }
     }
   ]

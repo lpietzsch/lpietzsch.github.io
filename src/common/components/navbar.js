@@ -77,7 +77,6 @@ export default class Navbar extends React.Component {
                 name
               }
               siteTitle: title
-              mailChimpUrl
             }
           }
         }
@@ -100,8 +99,6 @@ export default class Navbar extends React.Component {
               ))}
             </div>
             <div className="dn w-100 mw5 flex-l justify-around items-center">
-              <a href={data.site.siteMetadata.mailChimpUrl} className="sans-serif ttu light-red f5 no-underline dn dib-l">SIGN UP</a>
-              <span className="sans-serif mid-gray dn dib-l">|</span>
               <Link to="/about" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">ABOUT</Link>
             </div>
           </div>
