@@ -112,6 +112,14 @@ module.exports = {
         exclude: ['/success'],
         cookieDomain: "lara-pietzsch.de",
       }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://lara-pietzsch.de',
+        sitemap: 'https://lara-pietzsch.de/sitemap.xml',
+        policy: [{ userAgent: '*', disallow: '/' }]
+      }
     }
   ]
 }
