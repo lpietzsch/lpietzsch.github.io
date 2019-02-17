@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "pre-commit": "npm run build"
+    "pre-commit": "if git-branch-is develop; then npm run build; fi"
   }
 }
 
