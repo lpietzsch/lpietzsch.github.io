@@ -7,7 +7,7 @@ module.exports = {
     ],
     title: "Lara Pietzsch",
     description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
-    siteUrl: "https://lara-pietzsch.de",
+    siteUrl: "https://www.lara-pietzsch.de",
     homepageHeader: "Welcome to Your New Blog",
     homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
     xing: "https://www.xing.com/profile/Lara_Pietzsch",
@@ -116,8 +116,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://lara-pietzsch.de',
-        sitemap: 'https://lara-pietzsch.de/sitemap.xml',
+        host: 'https://www.lara-pietzsch.de',
+        sitemap: 'https://www.lara-pietzsch.de/sitemap.xml',
         policy: [{ userAgent: '*', disallow: '/' }]
       }
     }
