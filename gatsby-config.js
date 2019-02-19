@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/makeup", name: "Makeup"},
-      {to: "/lifestyle", name: "Lifestyle"},
-      {to: "/blog", name: "blog"},
+      {to: "/blog", name: "Blog"},
+      {to: "/kommunikation", name: "Kommunikation"},
+      {to: "/marketing", name: "Marketing"}
     ],
     title: "Lara Pietzsch",
-    description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
+    description: "Website Beschreibung",
     siteUrl: "https://www.lara-pietzsch.de",
-    homepageHeader: "Welcome to Your New Blog",
-    homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
+    homepageHeader: "Willkommen in meinem Blog",
+    homepageAbout: "Ich bin Kommunikatorin aus Leidenschaft",
     xing: "https://www.xing.com/profile/Lara_Pietzsch",
     twitter: "https://twitter.com/lara_pietzsch",
   },

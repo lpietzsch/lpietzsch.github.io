@@ -47,7 +47,7 @@ export const query = graphql`
     post: markdownRemark(frontmatter: {slug: {eq: $slug}}) {
       html
       frontmatter {
-        date(formatString: "MMM Do, YYYY")
+        date(formatString: "DD. MMM YYYY", locale: "DE")
         dateOriginal: date
         category
         author

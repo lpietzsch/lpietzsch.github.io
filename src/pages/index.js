@@ -12,7 +12,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <Seo
-        title={"Home Page"}
+        title={"Startseite"}
         description={data.site.siteMetadata.description} />
       <Hero
         title={post.frontmatter.title}

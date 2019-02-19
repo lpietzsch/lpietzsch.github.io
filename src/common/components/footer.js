@@ -38,8 +38,8 @@ export default () => (
             <Link to="/rss.xml" className="near-white sans-serif f5 tracked pv1 db">RSS FEED</Link>
           </div>
           <div className="flex flex-column">
-            <span className="near-white sans-serif f5 tracked mb3 db">MORE ON {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/about" className="near-white sans-serif f5 tracked pv1 db">ABOUT US</Link>
+            <span className="near-white sans-serif f5 tracked mb3 db">Mehr</span>
+            <Link to="/about" className="near-white sans-serif f5 tracked pv1 db">ÜBER MICH</Link>
           </div>
         </div>
         <div className="w-100 mw9 center silver mb3">

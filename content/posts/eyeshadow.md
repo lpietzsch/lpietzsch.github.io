@@ -3,7 +3,7 @@
 type: "post"
 title: "Three Eye Makeup Looks for Five Minute Mornings"
 author: "Jane Doe"
-category: "makeup"
+category: "marketing"
 date: "2018-01-03"
 slug: "/lazy-morning-looks"
 postImage: "./img/eyeshadow.jpg"

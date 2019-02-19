@@ -3,7 +3,7 @@
 type: "post"
 title: "Must-Have Products Selected by Tyra's Editors"
 author: "Jane Doe"
-category: "makeup"
+category: "kommunikation"
 date: "2018-01-04"
 slug: "/editors-picks"
 postImage: "./img/flatlay.jpg"

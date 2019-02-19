@@ -93,13 +93,13 @@ export default class Navbar extends React.Component {
                 <FiMenu />
               </button>
               <Link to="/" className="display ttu tracked dark-gray f4 no-underline">{data.site.siteMetadata.siteTitle}</Link>
-              <Link to="/" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">HOME</Link>
+              {/* <Link to="/" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">HOME</Link> */}
               {data.site.siteMetadata.navbarLinks.map(navLink => (
                 <MultiLink to={navLink.to} className="sans-serif ttu mid-gray f5 no-underline dn dib-l">{navLink.name}</MultiLink>
               ))}
             </div>
             <div className="dn w-100 mw5 flex-l justify-around items-center">
-              <Link to="/about" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">ABOUT</Link>
+              <Link to="/about" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">ÜBER MICH</Link>
             </div>
           </div>
           <SliderMenu

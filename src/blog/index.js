@@ -14,17 +14,17 @@ export default class BlogIndex extends React.Component {
     return (
       <Layout>
         <Seo
-          title={`All Blog Posts - Page ${this.props.pageContext.pageNumber}`}
-          description={`Index of all blog posts. Page ${this.props.pageContext.pageNumber}`}
+          title={`Lara Pietzsch – Blog - Seite ${this.props.pageContext.pageNumber}`}
+          description={`Übersicht alle Blogartikel. Seite ${this.props.pageContext.pageNumber}`}
         />
         <div className="pv5 flex items-center justify-center bg-washed-red">
-          <h1 className="fw1 tc f2 display">All Blog Posts</h1>
+          <h1 className="fw1 tc f2 display">Alle Artikel</h1>
         </div>
         <div className="mw9 center">
           <Breadcrumbs
             lastName="Blog"
             lastPath="/blog"
-            currentPage={`Page ${this.props.pageContext.pageNumber}`} />
+            currentPage={`Seite ${this.props.pageContext.pageNumber}`} />
           {posts.map(({node}) => (
             <Preview
               fluidImage={node.frontmatter.postImage.childImageSharp.fluid}
@@ -38,7 +38,7 @@ export default class BlogIndex extends React.Component {
             {hasNext &&
                 <Link
                   className="dark-gray sans-serif ttu tracked no-underline"
-                  to={this.props.pageContext.nextPage}>Next Page &rarr;</Link>
+                  to={this.props.pageContext.nextPage}>Nächste Seite &rarr;</Link>
             }
           </div>
         </div>
@@ -60,7 +60,7 @@ export const blogListQuery = graphql`
         node {
           frontmatter {
             title
-            date(formatString: "MMM Do YYYY")
+            date(formatString: "DD. MMM YYYY", locale: "DE")
             category
             metaDescription
             slug

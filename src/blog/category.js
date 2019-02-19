@@ -15,15 +15,15 @@ export default class BlogIndex extends React.Component {
     return (
       <Layout>
         <Seo
-          title={`Posts Tagged ${category} - Page ${this.props.pageContext.pageNumber}`} />
+          title={`${category} - Seite ${this.props.pageContext.pageNumber}`} />
         <div className="pv5 flex items-center justify-center bg-washed-red">
-          <h1 className="fw1 tc f2 display">Posts Tagged {category}</h1>
+          <h1 className="fw1 tc f2 display">Artikel zu "{category}"</h1>
         </div>
         <div className="mw9 center">
           <Breadcrumbs
             lastName={category}
             lastPath={`${category}`}
-            currentPage={`Page ${this.props.pageContext.pageNumber}`} />
+            currentPage={`Seite ${this.props.pageContext.pageNumber}`} />
           {posts.map(({node}) => (
             <Preview
               fluidImage={node.frontmatter.postImage.childImageSharp.fluid}
@@ -37,7 +37,7 @@ export default class BlogIndex extends React.Component {
             {hasNext &&
                 <Link
                   className="dark-gray sans-serif ttu tracked no-underline"
-                  to={this.props.pageContext.nextPage}>Next Page &rarr;</Link>
+                  to={this.props.pageContext.nextPage}>Nächste Seite &rarr;</Link>
             }
           </div>
         </div>
@@ -59,7 +59,7 @@ export const blogListQuery = graphql`
         node {
           frontmatter {
             title
-            date(formatString: "MMM Do YYYY")
+            date(formatString: "DD. MMM YYYY", locale: "DE")
             category
             metaDescription
             slug
