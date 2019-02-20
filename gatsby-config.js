@@ -105,12 +105,11 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: "",
+        trackingId: "UA-134848998-1",
         head: false,
         anonymize: true,
         respectDNT: true,
-        exclude: ['/success'],
-        cookieDomain: "lara-pietzsch.de",
+        cookieDomain: "lara-pietzsch.de"
       }
     },
     {
