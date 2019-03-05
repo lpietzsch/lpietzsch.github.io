@@ -26,11 +26,11 @@ const SliderMenu = (props) => {
   return (
     <div
       className={
-        "flex flex-column justify-center items-center bg-washed-red fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
+        "flex flex-column justify-center items-center bg-light-blue fixed top z-max w-100 ease" + (props.active ? " vh-93" : " h0")
       }>
       <Link
         to="/"
-        className={"display ttu tracked dark-gray f3 no-underline menu__item pv5" + extraClasses}
+        className={"display ttu tracked near-black f3 no-underline menu__item pv5" + extraClasses}
       >{props.siteTitle}
       </Link>
       {props.extraLinks.map(navLink => (
@@ -88,11 +88,11 @@ export default class Navbar extends React.Component {
             style={{position: "sticky"}}>
             <div className="w-100 mw8 flex justify-between justify-around-l items-center ph4 pa2-ns">
               <button
-                className="ttu tracked dark-gray f4 no-underline bn bg-transparent pointer"
+                className="ttu tracked near-black f4 no-underline bn bg-transparent pointer"
                 onClick={this.toggleMenu}>
                 <FiMenu />
               </button>
-              <Link to="/" className="display ttu tracked dark-gray f4 no-underline">{data.site.siteMetadata.siteTitle}</Link>
+              <Link to="/" className="display ttu tracked near-black f4 no-underline">{data.site.siteMetadata.siteTitle}</Link>
               {/* <Link to="/" className="sans-serif ttu mid-gray f5 no-underline dn dib-l">HOME</Link> */}
               {data.site.siteMetadata.navbarLinks.map(navLink => (
                 <MultiLink to={navLink.to} className="sans-serif ttu mid-gray f5 no-underline dn dib-l">{navLink.name}</MultiLink>

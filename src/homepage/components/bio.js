@@ -28,7 +28,7 @@ export default () => (
         <React.Fragment>
           <Img fluid={data.image.childImageSharp.fluid} alt="The Author" className="w-100 mw6" />
           <div class="w-100 pa2 mw6 mv4">
-            <span className="db f2 display dark-gray">{data.copy.frontmatter.title}</span>
+            <span className="db f2 display near-black">{data.copy.frontmatter.title}</span>
             <div className="lh-copy f5 serif mt4" dangerouslySetInnerHTML={{__html: data.copy.html}} />
           </div>
         </React.Fragment>

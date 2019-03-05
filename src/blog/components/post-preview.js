@@ -9,16 +9,16 @@ export default (props) => (
     <Img
       className="w-100 mw6 h-100"
       fluid={props.fluidImage}
-      alt="" />
+      alt={ `Vorschau – ${props.title}` } />
     <div className="mw7 pa2 ph4-ns">
       <span className="db f2 display">
         <Link
-          className="dark-gray no-underline"
+          className="near-black no-underline"
           to={props.slug}>{props.title}</Link>
       </span>
       <div className="mv3 mb5-ns flex justify-between">
-        <div className="db f6 silver ttu tracked sans-serif">{props.date}</div>
-        <div className="db f6 silver ttu tracked sans-serif">{props.category}</div>
+        <div className="db f6 gray ttu tracked sans-serif">{props.date}</div>
+        <div className="db f6 gray ttu tracked sans-serif">{props.category}</div>
       </div>
       <div className="serif f4 lh-copy">{props.description}</div>
     </div>

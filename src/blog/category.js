@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby';
 import Breadcrumbs from './components/breadcrumbs';
 import Preview from './components/post-preview.js';
 import Seo from '../common/seo';
+import capitalize from '../common/capitalize';
 import 'tachyons';
 
 
@@ -16,8 +17,8 @@ export default class BlogIndex extends React.Component {
       <Layout>
         <Seo
           title={`${category} - Seite ${this.props.pageContext.pageNumber}`} />
-        <div className="pv5 flex items-center justify-center bg-washed-red">
-          <h1 className="fw1 tc f2 display">Artikel zu "{category}"</h1>
+        <div className="pv5 flex items-center justify-center bg-light-blue">
+          <h1 className="fw1 tc f2 display dark-gray">{ capitalize(category) }</h1>
         </div>
         <div className="mw9 center">
           <Breadcrumbs
@@ -36,7 +37,7 @@ export default class BlogIndex extends React.Component {
           <div className="pv5 flex w-100">
             {hasNext &&
                 <Link
-                  className="dark-gray sans-serif ttu tracked no-underline"
+                  className="near-black sans-serif ttu tracked no-underline"
                   to={this.props.pageContext.nextPage}>Nächste Seite &rarr;</Link>
             }
           </div>

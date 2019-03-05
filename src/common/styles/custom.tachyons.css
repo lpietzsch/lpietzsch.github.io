@@ -118,3 +118,9 @@
   background-color: #eee;
   white-space: pre-wrap;
 }
+
+/* colors */
+
+.mid-gray-darker {
+  color: #363636;
+}

@@ -7,12 +7,12 @@ export default (props) => (
   <div className="w-100 f6 pv3 flex items-center tracked ttu sans-serif justify-around mw5">
     <Link
       to="/"
-      className="dark-gray">Home</Link>
+      className="near-black">Home</Link>
     <span>&nbsp;>&nbsp;</span>
     <Link
       to={props.lastPath}
-      className="dark-gray">{props.lastName}</Link>
+      className="near-black">{props.lastName}</Link>
     <span>&nbsp;>&nbsp;</span>
-    <span className="mid-gray">{props.currentPage}</span>
+    <span className="mid-gray" style={{whiteSpace: 'nowrap'}}>{props.currentPage}</span>
   </div>
 )

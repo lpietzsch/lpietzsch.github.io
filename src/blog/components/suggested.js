@@ -6,7 +6,7 @@ import 'tachyons';
 
 export default props => (
   <div className="flex flex-column justify-end items-center pa2" style={{gridArea: "suggested"}}>
-    <span className="sans-serif tracked ttu tc db pv3">CONTINUE READING</span>
+    <span className="sans-serif tracked ttu tc db pv3">Zum Weiterlesen</span>
     <StaticQuery
       query={graphql`
         query {
@@ -42,7 +42,7 @@ export default props => (
               alt={node.frontmatter.metaDescription} />
           </Link>
           <Link
-            className="f4 serif tc dib pv2 ph3 display dark-gray no-underline"
+            className="f4 serif tc dib pv2 ph3 display near-black no-underline"
             to={node.frontmatter.slug}>
             {node.frontmatter.title}
           </Link>
