@@ -1,7 +1,7 @@
 {
   "name": "lara-pietzsch.de",
   "description": "Source code of lara-pietzsch.de based on the lovely \"madelyneriksen/gatsby-starter-tyra\" starter",
-  "license": "UNLICENSED",
+  "license": "CC BY-NC-ND 2.0",
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",

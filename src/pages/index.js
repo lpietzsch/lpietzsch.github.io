@@ -8,17 +8,16 @@ import Bio from '../homepage/components/bio';
 import Seo from '../common/seo';
 
 export default ({ data }) => {
-  let post = data.featuredPost.edges[0].node;
+  const fixedImage = data.file.childImageSharp.fluid;
   return (
     <Layout>
       <Seo
         title={"Startseite"}
         description={data.site.siteMetadata.description} />
       <Hero
-        title={post.frontmatter.title}
-        image={post.frontmatter.postImage.childImageSharp.fluid}
-        to={post.frontmatter.slug}
-        description={post.frontmatter.description} />
+        title='Die Kuppel einer erfolgreichen Marke'
+        image={fixedImage}
+        description='Kommunikation. PR. Leidenschaft.' />
       <div className="flex flex-wrap center mw9 justify-around pb3">
         {data.cards.edges.map(({node}) => (
           <Card
@@ -36,29 +35,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query {
-    featuredPost: allMarkdownRemark(
-      limit: 1,
-      sort: {order: DESC, fields: frontmatter___date},
-      filter: {frontmatter: {type: {eq: "post"}}}) {
-      edges {
-        node {
-          frontmatter {
-            title
-            description: metaDescription
-            slug
-            postImage {
-              childImageSharp {
-                fluid(maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
-      }
-    }
     cards: allMarkdownRemark(
-      skip: 1,
       limit: 3,
       sort: {order: DESC, fields: frontmatter___date},
       filter: {frontmatter: {type: {eq: "post"}}}) {
@@ -82,6 +59,13 @@ export const query = graphql`
     site {
       siteMetadata {
         description
+      }
+    }
+    file(relativePath: { eq: "img/index-page-banner.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1920) {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
   }
