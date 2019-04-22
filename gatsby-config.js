@@ -12,6 +12,7 @@ module.exports = {
     homepageAbout: "Ich bin Kommunikatorin aus Leidenschaft",
     xing: "https://www.xing.com/profile/Lara_Pietzsch",
     twitter: "https://twitter.com/lara_pietzsch",
+    linkedIn: "https://www.google.com"
   },
   plugins: [
     'gatsby-plugin-sitemap',

@@ -2,7 +2,8 @@ import React from 'react';
 import { Link, StaticQuery, graphql } from 'gatsby';
 import {
   FaXing,
-  FaTwitter
+  FaTwitter,
+  FaLinkedinIn
 } from 'react-icons/fa';
 import 'tachyons';
 import SimpleLink from './simpleLink';
@@ -17,6 +18,7 @@ export default () => (
             siteTitle: title
             xing
             twitter
+            linkedIn
           }
         }
       } 
@@ -30,6 +32,7 @@ export default () => (
             <div className="w-100 flex justify-around items-center pv2">
               <SimpleLink className="near-white" href={data.site.siteMetadata.xing} external><FaXing /></SimpleLink>
               <SimpleLink className="near-white" href={data.site.siteMetadata.twitter} external><FaTwitter /></SimpleLink>
+              <SimpleLink className="near-white" href={data.site.siteMetadata.linkedIn} external><FaLinkedinIn /></SimpleLink>
             </div>
           </div>
           <div className="flex flex-column">
