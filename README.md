@@ -11,7 +11,7 @@ The next sections will provide german in-depth tutorials on how to use this repo
 3. Dateiname im Format `[some-shiny-post-name].md` im ersten Feld eintragen
 4. "Edit new File" für den Inhalt des Posts nutzen. Das Format ist Markdown. [Zum Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Ein Post beginnt immer mit der in `---` angeführten und beendeten Sektion, in der wichtige Metainformationen stehen. Es folgt der Inhalt des Posts. **Achtung:** Alle Pfade zu Bildern sollten so aussehen: `./img/bild-name.jpg`. Diese Pfade sind wichtig. Bevor oder nach Schritt 5 dieser Anleitung sollten diese Bilder nach [content/posts/img/](content/posts/img/) hochgeladen werden.
+Ein Post beginnt immer mit der in `---` angeführten und beendeten Sektion, in der wichtige Metainformationen stehen. Danach folgt der Inhalt des Artikels. Hier ein Beispiel mit Metainformationen und einem kurzen Post, der verschiedene Markdown-Features nutzt:
 
 
 ```markdown
@@ -30,11 +30,11 @@ metaDescription: "Zirka 150 Zeichen gebündelter Teaser, der im Google SERP Snip
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Der erste Abschnitt halt.
 
-![Alt Text](./img/some-picture-file-that-exists-in-img.jpg)
+![Ein Alternativ-Text für dieses Bild, das eigentlich in voller Breite erscheinen sollte](./img/some-picture-file-that-exists-in-img.jpg)
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Zweiter Abschnitt halt.
 
-## Eine Überschrift des zweiten Levels (h2)
+## Eine Überschrift der zweiten Hierarchie (h2)
 
 ...h1, also das erste Level, ist dem Titel des Artikels allein vorbehalten. Der wird automatisch gerendert.
 
@@ -43,6 +43,8 @@ Es geht weiter:
 > Das ist ein Zitat, von einer Person die schlau ist.
 
 ```
+
+**Achtung:** Alle Pfade zu Bildern sollten so aussehen: `./img/bild-name.jpg`. Diese Pfade sind wichtig. Bevor oder nach Schritt 5 dieser Anleitung sollten diese Bilder nach [content/posts/img/](content/posts/img/) hochgeladen werden.
 
 5. Commit-Titel und Beschreibung müssen nicht angegeben werden. Es kann auf "Commit new file" geklickt werden.
 6. Nach dem Commit und dem hinzufügen der Bild-Dateien (siehe "Achtung-Notiz" in Schritt 4) kann der [Status des Builds und Deployments in TravisCI](https://travis-ci.org/lpietzsch/lpietzsch.github.io) beobachtet werden. Wenn der Job grün und fertig ist...
