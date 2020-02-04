@@ -2,6 +2,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import {StaticQuery, graphql} from 'gatsby';
 
+const capitalizeFirstLetter = (inputString) =>  inputString.charAt(0).toUpperCase() + inputString.slice(1)
 
 export default props => (
   <StaticQuery
@@ -16,7 +17,7 @@ export default props => (
     `}
     render={data => (
       <Helmet>
-        <title>{props.title.replace(/\b\w/g, letter => letter.toUpperCase()) + " - " + data.site.siteMetadata.title}</title>
+        <title>{capitalizeFirstLetter(props.title) + " - " + data.site.siteMetadata.title}</title>
         <meta name="description" content={props.description} />
       </Helmet>
     )} />

@@ -8,13 +8,13 @@ import Seo from '../common/seo';
 export default ({props, data}) => (
   <Layout>
     <Seo
-      title={`About ${data.site.siteMetadata.title}`}
+      title="Über mich"
       description={data.markdownRemark.frontmatter.title} />
     <div className="relative">
       <Img fluid={data.banner.childImageSharp.fluid} />
       <h1
         className="fw1 tc f2 display absolute dn dib-ns"
-        style={{bottom: "50%", left: "50%", transform: "translate(-50%, -50%)"}}>Über {data.site.siteMetadata.title}</h1>
+        style={{bottom: "50%", left: "50%", transform: "translate(-50%, -50%)"}}>Über mich</h1>
     </div>
     <div className="mw9 center flex flex-wrap pv5-l w-100">
       <div className="mw7 w-100 pa2">
