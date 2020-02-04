@@ -68,7 +68,7 @@ module.exports = {
             }
           `,
             output: "/rss.xml",
-            title: "Gatsby RSS Feed",
+            title: "Lara Pietzsch RSS Feed",
           },
         ],
       },
