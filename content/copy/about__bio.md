@@ -2,10 +2,13 @@
 
 type: "copy"
 name: "about__bio"
-title: "Tyra is a fast, feminine, and chic Gatsby.js Starter. Kickstart your online presence, powered by React."
+title: "B2B-Nerd ✌️ Product Marketing Manager | M.A. Brand & Media Management"
 
 ---
 
-Built on a strong foundation of React and Gatsby, Tyra is a modern, sleek, and _fast_ template for a blog. Created with an emphasis on SEO and the goal of showcasing content, Tyra is the perfect starter for creating your new project.
+Die wenigsten wissen über mich: Ich schreibe wahnsinnig gerne. Schon im Kindergarten habe ich eifrig in mein kleines Diddl-Tagebuch (nur stilecht mit goldenem Schlößchen) geschrieben. Seitdem ich schreiben kann, habe ich im Familienurlaub jede einzelne Postkarte selbst geschrieben. Bis heute! Das Schreiben ist eines der wenigen Dinge, die mich schon fast mein ganzes Leben begleiten und von dem ich mich nie verabschiedet habe. Das kann ich von vielen anderen Dingen nicht behaupten: Reiten, tanzen, surfen, Badminton und Gymnastik: Alles Relikte aus „vergangenen“ Tagen.
 
-Tyra is MIT Licensed, and so works well as a starting point, a springboard, or even a finished product.
+## Wer schreibt, der bleibt?
+
+Dieser Satz verfolgt mich schon eine gefühlte Ewigkeit. Lernen konnte ich schon immer am Besten in schriftlicher Form.
+Egal, um welche Hausaufgabe oder Klassenarbeit es ging, die längsten Aufsätze in der Klasse kamen garantiert von mir. Klausurfragen im Studium in der vorgegebenen Linienanzahl beantworten? Für mich bis zum Masterabschluss ein Ding der Unmöglichkeit. Kurz fassen konnte ich mich noch nie gut. Wie praktisch, dass ich mich auf diesem Blog nicht kurz fassen muss.
