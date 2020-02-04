@@ -2,17 +2,16 @@ module.exports = {
   siteMetadata: {
     navbarLinks: [
       {to: "/blog", name: "Blog"},
-      {to: "/kommunikation", name: "Kommunikation"},
-      {to: "/marketing", name: "Marketing"}
+      {to: "/allgemeines", name: "Allgemeines"}
     ],
     title: "Lara Pietzsch",
     description: "Website Beschreibung",
     siteUrl: "https://www.lara-pietzsch.de",
-    homepageHeader: "Willkommen in meinem Blog",
+    homepageHeader: "Willkommen auf meinem Blog",
     homepageAbout: "Ich bin Kommunikatorin aus Leidenschaft",
     xing: "https://www.xing.com/profile/Lara_Pietzsch",
     twitter: "https://twitter.com/lara_pietzsch",
-    linkedIn: "https://www.google.com"
+    linkedIn: "https://www.linkedin.com/in/lara-pietzsch-15a96394/"
   },
   plugins: [
     'gatsby-plugin-sitemap',
