@@ -14,9 +14,9 @@ export default ({ data }) => {
         title={"Startseite"}
         description={data.site.siteMetadata.description} />
       <Hero
-        title='Die Kuppel einer erfolgreichen Marke'
+        title='Marketing und Meinung'
         image={fixedImage}
-        description='Kommunikation. PR. Leidenschaft.' />
+        description='Alles unter einem Dach.' />
       <div className="flex flex-wrap center mw9 justify-around pb3">
         {data.cards.edges.map(({node}) => (
           <Card

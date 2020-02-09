@@ -6,10 +6,13 @@ import 'tachyons';
 
 export default (props) => (
   <div className="pv3 flex justify-center items-center flex-wrap">
-    <Img
-      className="w-100 mw6 h-100"
-      fluid={props.fluidImage}
-      alt={ `Vorschau – ${props.title}` } />
+    <Link
+          className="w-100 mw6 h-100"
+          to={props.slug}>
+      <Img
+        fluid={props.fluidImage}
+        alt={ `Vorschau – ${props.title}` } />
+    </Link>
     <div className="mw7 pa2 ph4-ns">
       <span className="db f2 display">
         <Link

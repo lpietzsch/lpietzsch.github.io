@@ -2,10 +2,10 @@
 
 type: "copy"
 name: "homepage__bio"
-title: "Showcase Your Personality."
+title: "Lara, erzähl mal, wer bist du eigentlich?"
 
 ---
 
-Your incredible content deserves an incredible home. Tyra leverages your brilliant blog posts, builds rich SEO data, and makes publishing easy! Fast, dynamic websites are here, powered by Gatsby.js and React.
+Ich bin alles auf einmal und nichts. Ich bin ein Querdenker und in mir lebt ein Freigeist. Ich bin wandelbar wie eine Werbeanzeige: Mal mucksmäuschenstill, mal quasselnd wie ein Wasserfall.
 
-This section of the site would be great to feature an author's biography, or maybe a bit about what makes your business special! It's featured towards the end of the homepage, after other descriptive sections.
+Ich mag’s kompliziert. Ein bisschen kompliziert reicht nicht. So richtig zuhause fühle ich mich deshalb im B2B-Marketing. Mein Motto: Schokolade verkaufen kann ja jeder!

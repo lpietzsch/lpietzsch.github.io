@@ -2,7 +2,7 @@
 
 type: "copy"
 name: "about__bio"
-title: "B2B-Nerd ✌️ Product Marketing Manager | M.A. Brand & Media Management"
+title: "B2B-Nerd ✌️<br/>Product Marketing Manager<br/>M.A. Brand & Media Management"
 
 ---
 

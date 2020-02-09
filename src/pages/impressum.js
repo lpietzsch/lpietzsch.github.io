@@ -13,11 +13,11 @@ export default ({props, data}) => (
     <div className="relative">
       <Img fluid={data.banner.childImageSharp.fluid} />
       <h1
-        className="fw1 tc f2 display absolute dn dib-ns"
+        className="white tracked tc f2 display absolute dn dib-ns"
         style={{bottom: "50%", left: "50%", transform: "translate(-50%, -50%)"}}>{data.markdownRemark.frontmatter.title}</h1>
     </div>
     <div className="mw9 center flex flex-wrap pv5-l w-100">
-      <div className="lh-copy f4" dangerouslySetInnerHTML={{__html: data.markdownRemark.html}} />
+      <div className="mw8 serif f4 lh-copy center" dangerouslySetInnerHTML={{__html: data.markdownRemark.html}} />
     </div>
   </Layout>
 )
@@ -35,7 +35,7 @@ export const dataQuery = graphql`
         title
       }
     }
-    banner: file(relativePath: {eq: "img/about__banner.jpg"}) {
+    banner: file(relativePath: {eq: "img/banner-kandidat.jpeg"}) {
       childImageSharp {
         fluid(maxHeight: 720, maxWidth: 1920) {
           ...GatsbyImageSharpFluid
