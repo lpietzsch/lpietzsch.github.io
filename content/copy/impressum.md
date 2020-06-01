@@ -8,16 +8,18 @@ title: "Impressum"
 
 Diese Seite wird als Privatperson betrieben und besitzt keine gewerblichen Absichten. Der Betrieb und die redaktionelle Verantwortung liegen bei
 
+<p>
 Lara Pietzsch<br>
-Musterstraße 123<br>
-40699 Erkrath
+c/o AutorenServices.de<br>
+Birkenallee 24<br>
+36037 Fulda
+</p>
 
 ## Kontakt
 
 Die Betreiberin der Seite gibt folgende Kontaktmöglichkeiten an:
 
-Telefon: ???<br>
-E-Mail: ???<br>
+E-Mail: pietzsch.marketing@gmail.com<br>
 Website: www.lara-pietzsch.de
 
 ## Verweis auf unsere Datenschutzerklärung

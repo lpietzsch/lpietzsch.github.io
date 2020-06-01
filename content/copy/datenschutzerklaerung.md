@@ -8,11 +8,12 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ### Verantwortlicher
 
-<span class="tsmcontroller">Lara Pietzsch  
-Musterstaße 123  
-40699 Erkrath  
-Telefon: ???  
-E-Mail-Adresse: ???
+<p>
+Lara Pietzsch<br>
+c/o AutorenServices.de<br>
+Birkenallee 24<br>
+36037 Fulda
+</p>
 
 ### Arten der verarbeiteten Daten
 
