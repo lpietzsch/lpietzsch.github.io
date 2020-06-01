@@ -1,4 +1,2 @@
-User-agent: *
-Disallow: /
 Sitemap: https://www.lara-pietzsch.de/sitemap.xml
 Host: https://www.lara-pietzsch.de
