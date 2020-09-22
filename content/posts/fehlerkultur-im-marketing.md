@@ -14,11 +14,11 @@ metaDescription: "Fehler passieren? Aber bitte nicht im Marketing! Gründe für 
 Fehler passieren? Aber bitte nicht im Marketing! Gründe für Fehler im Marketing und spannende Lösungsansätze.
 
 "Irren ist menschlich" ist ein Satz, den wir in Deutschland zwar sehr gerne und häufig zitieren, aber selten wirklich ernst meinen. Eine schöne Floskel also. Mit der Fehlerkultur in Deutschland ist es so eine Sache. Eine Sache, die im Grunde nicht vorhanden ist.
-Und das ist nicht nur die „gefühlte“ Wahrheit. [2018](https://www.welt.de/wirtschaft/bilanz/article178370014/Unternehmensfuehrung-Deutschland-braucht-eine-neue-Fehlerkultur.html) untersuchte die IHK Schleswig-Holstein die Toleranz für Fehler in 61 Ländern, Deutschland belegt dabei einen - wenig interpretationswürdigen - 60. Platz. Hinter uns folgt übrigens Singapur: Ein Land, mitten in Asien dessen geringstes Problem wohl die Fehler eines einzelnen sind. 
+Und das ist nicht nur die „gefühlte“ Wahrheit. <a href="https://www.welt.de/wirtschaft/bilanz/article178370014/Unternehmensfuehrung-Deutschland-braucht-eine-neue-Fehlerkultur.html" target="_blank">2018</a> untersuchte die IHK Schleswig-Holstein die Toleranz für Fehler in 61 Ländern, Deutschland belegt dabei einen - wenig interpretationswürdigen - 60. Platz. Hinter uns folgt übrigens Singapur: Ein Land, mitten in Asien dessen geringstes Problem wohl die Fehler eines einzelnen sind. 
 
 Nun gibt es Bereiche, von denen würde wohl jeder behaupten, dass dort absolut keine und überhaupt niemals Fehler passieren dürfen. Ist das Essen im Restaurant versalzen, können wir ein neues bestellen. Anders verhält es sich dagegen mit dem menschlichen Körper. Den können wir nicht einfach neu bestellen, nur weil jemand nicht ganz aufmerksam war. Wer darf also am Besten keine Fehler machen? Ärzte. Wer macht trotzdem Fehler wie jeder andere auch? Richtig, Ärzte! 
 
-Vor kurzem habe ich eine [Dokumentation](https://www.youtube.com/watch?v=DJ0ai9YQJNQ) über Fehlerkultur von Ärzten gesehen. Das hat mich nicht nur sehr inspiriert, sondern auch nachdenklich gestimmt. Wenn selbst Ärzte Fehler machen „dürfen“ und es schaffen aus ihnen zu lernen, warum tut sich die Marketingbranche dann eigentlich so schwer damit?
+Vor kurzem habe ich eine <a href="https://www.youtube.com/watch?v=DJ0ai9YQJNQ" target="_blank">Dokumentation</a> über Fehlerkultur von Ärzten gesehen. Das hat mich nicht nur sehr inspiriert, sondern auch nachdenklich gestimmt. Wenn selbst Ärzte Fehler machen „dürfen“ und es schaffen aus ihnen zu lernen, warum tut sich die Marketingbranche dann eigentlich so schwer damit?
 
 ## Gründe für mangelnde Fehlerkultur im Marketing 
 
