@@ -27,14 +27,14 @@ Eigentlich lässt sich die Frage, warum Fehler im Marketing besser nicht passier
 
 Der Irrtum, der sich dahinter versteckt: Ja, natürlich ist es teuer, wenn ich aus Versehen das falsche Budget für die Kampagne einstelle. Keine Frage. Aber: Viel teurer wird es für den Kunden oder das Unternehmen, wenn nicht nur ich den Fehler mache, sondern drei weitere Personen nach mir, weil es sich eigentlich um einen „Systemfehler“ handelt. 
 
-Lösung: Zahle einmal das „Lehrgeld“ für den Fehler. Es ist ärgerlich, aber wahrscheinlich wird es das Unternehmen nicht in den Ruin treiben. Decke den Fehler auf und versuche den Ursprung zu finden. Vielleicht musste es mal wieder etwas schneller gehen. Wie wär’s beim nächsten Mal mit einem Pairing-Ansatz? Wenn du die nächste Kampagne einstellst, schnapp dir doch deinen Lieblings-Kollegen und ladet die Kampagne nach dem 4-Augen-Prinzip gemeinsam hoch. Klappt übrigens auch Remote.
+<u>Lösung:</u> Zahle einmal das „Lehrgeld“ für den Fehler. Es ist ärgerlich, aber wahrscheinlich wird es das Unternehmen nicht in den Ruin treiben. Decke den Fehler auf und versuche den Ursprung zu finden. Vielleicht musste es mal wieder etwas schneller gehen. Wie wär’s beim nächsten Mal mit einem Pairing-Ansatz? Wenn du die nächste Kampagne einstellst, schnapp dir doch deinen Lieblings-Kollegen und ladet die Kampagne nach dem 4-Augen-Prinzip gemeinsam hoch. Klappt übrigens auch Remote.
 
 ### Der Druck steigt
 Das Wort „Fehler“ zeigt es schon, hier hat irgendwer irgendetwas „falsch“ gemacht. Wann immer es jedoch um die eigene Karriere geht, sind Fehler gar nicht gern gesehen. Der Druck steigt und unser eigener Anspruch an uns gleich mit. 
 
 Das Paradoxe: Steigender Druck, immer mehr in immer kürzerer Zeit leisten zu müssen, führt automatisch zu Fehlern. Je mehr Aufgaben wir haben, desto wahrscheinlicher ist es, dass uns Fehler unterlaufen. 
 
-Lösung: Klingt einfach - ist einfach. Fehler einfach mal zulassen. Drüber reden, draus lernen, den Druck für sich und andere rausnehmen, alles perfekt meistern zu wollen.
+<u>Lösung:</u> Klingt einfach - ist einfach. Fehler einfach mal zulassen. Drüber reden, draus lernen, den Druck für sich und andere rausnehmen, alles perfekt meistern zu wollen.
 
 ### Verantwortlichkeiten sind unklar
 Passiert ein Fehler, dauert es meist nur wenige Augenblicke bis die geliebte Schuldfrage losgeht. Es geht nicht um: Woran hat es gelegen? Sondern: WER war das? 
@@ -45,7 +45,7 @@ Eine häufige Ursache für das Fingerpointing, so verwerflich es auch sein mag, 
 Ein Beispiel: Der Creative Director hat festgelegt, dass Texte auf Werbeanzeigen nur noch 100 Zeichen lang sein dürfen. Der Werbetexter vergisst die neue Regel und legt dem Designer 130 Zeichen für die Anzeige vor. Der Ad Designer registriert das, aber denkt sich, dass er nicht für den Text verantwortlich ist und baut ihn ein.
 Die Folge daraus? Der Text bricht ungünstig um. Das Gute? Niemand stirbt daran.
 
-Lösung: Wenn sich Mitarbeiter verantwortlich fühlen sollen, müssen sie in Entscheidungsprozesse und deren Ergebnisse mit eingebunden werden. Nur dann können die Beweggründe und die Sinnhaftigkeit wirklich verstanden werden. Denken wir nochmal an die Erkenntnis, dass wir in den allermeisten Fällen davon ausgehen können, dass niemand aus böser Absicht handelt. Auch kein Creative Director. Es wird also wohl einen Grund für die Limitierung des Textes geben. In diesem Fall kennen wir den Grund aber nicht. Erarbeiten Creative Director, Werbetexter und Ad Designer diese Regeln gemeinsam, weiß am Ende jeder, warum es wichtig ist, darauf zu achten und jeder wird sich gleichermaßen für die Einhaltung verantwortlich fühlen. 
+<u>Lösung:</u> Wenn sich Mitarbeiter verantwortlich fühlen sollen, müssen sie in Entscheidungsprozesse und deren Ergebnisse mit eingebunden werden. Nur dann können die Beweggründe und die Sinnhaftigkeit wirklich verstanden werden. Denken wir nochmal an die Erkenntnis, dass wir in den allermeisten Fällen davon ausgehen können, dass niemand aus böser Absicht handelt. Auch kein Creative Director. Es wird also wohl einen Grund für die Limitierung des Textes geben. In diesem Fall kennen wir den Grund aber nicht. Erarbeiten Creative Director, Werbetexter und Ad Designer diese Regeln gemeinsam, weiß am Ende jeder, warum es wichtig ist, darauf zu achten und jeder wird sich gleichermaßen für die Einhaltung verantwortlich fühlen. 
 
 ### Fehlende Transparenz 
 Fehler, die passieren, werden gern unter den Teppich gekehrt. Insbesondere, wenn dieser Fehler niemandem aufgefallen ist. Das Gute: Ich rette meine eigene Haut. Das Schlechte: Mein Kollege kann den gleichen Fehler kurz nach mir wiederholen. 
@@ -54,7 +54,7 @@ Ein Beispiel: Wir starten eine Kampagne für einen großen Automobilhersteller. 
 Die Analyse eines Vorfalls endet normalerweise, nachdem der Schuldige gefunden ist. Dabei fängt es erst hier an spannend zu werden. 
 Was war das Problem? Gab es zu wenig Abstimmung mit dem Kunden? War das Kampagnenbriefing des Projektmanagers lückenhaft? Und ganz wichtig: Was können wir daraus lernen?
 
-Lösung: Das Wundermittel gegen eine mangelhafte Fehlerkultur heißt Transparenz! Erkenne deine Fehler und sprich darüber. Nur wer mit gutem Beispiel vorangeht, kann erwarten, dass sich auch andere öffnen. Ein guter Raum hierfür ist eine Retrospektive, die eigentlich Teil des Scrum Prozesses ist. Sie funktioniert als geschützter Raum aber auch ganz wunderbar im Anschluss an jede Kampagne. Sprecht gemeinsam im Projektteam darüber, was gut lief, was schlecht lief und was ihr beim nächsten Mal besser machen könnt. Und wenn ihr richtig mutig seid, lasst ihr andere im Unternehmen an euren Fehlern teilhaben. Wie wär’s z.B. mit einem Failure Friday pro Quartal? 
+<u>Lösung:</u> Das Wundermittel gegen eine mangelhafte Fehlerkultur heißt Transparenz! Erkenne deine Fehler und sprich darüber. Nur wer mit gutem Beispiel vorangeht, kann erwarten, dass sich auch andere öffnen. Ein guter Raum hierfür ist eine Retrospektive, die eigentlich Teil des Scrum Prozesses ist. Sie funktioniert als geschützter Raum aber auch ganz wunderbar im Anschluss an jede Kampagne. Sprecht gemeinsam im Projektteam darüber, was gut lief, was schlecht lief und was ihr beim nächsten Mal besser machen könnt. Und wenn ihr richtig mutig seid, lasst ihr andere im Unternehmen an euren Fehlern teilhaben. Wie wär’s z.B. mit einem Failure Friday pro Quartal? 
 
 
 ### Strate.. was? Strategie, genau.
@@ -62,6 +62,6 @@ Jede Kampagne kann nur so gut werden, wie die Strategie, die sich dahinter verbi
 
 Das Problem dahinter: Häufig verfallen wir, wenn wir für Kunden arbeiten, schon in Maßnahmen, bevor wir überhaupt das Problem, das unsere Kampagne lösen soll, vollständig erfasst haben. Die Ziele und KPIs werden dann dementsprechend wässrig.
 
-Lösung: Bewusste Zeiträume für die Erarbeitung einer Kampagnenstrategie und Zeit für Rückfragen beim Auftraggeber einplanen. 
+<u>Lösung:</u> Bewusste Zeiträume für die Erarbeitung einer Kampagnenstrategie und Zeit für Rückfragen beim Auftraggeber einplanen. 
 
 Natürlich ist es oft hirnzermürbend, sich mit den Problemen unserer Zielgruppen auseinanderzusetzen. Aber nur, wenn wir verstehen, welche Bedürfnisse unsere Zielgruppe hat und welches dieser Bedürfnisse unser Kampagnenprodukt löst, können wir wirklich richtig gutes Marketing machen. Und dann auch endlich mal aus unseren Fehlern lernen. 
