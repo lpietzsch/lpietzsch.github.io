@@ -116,7 +116,7 @@ module.exports = {
       options: {
         host: 'https://www.lara-pietzsch.de',
         sitemap: 'https://www.lara-pietzsch.de/sitemap.xml',
-        policy: []
+        policy: [{userAgent: '*', disallow: ['/hochzeit-16-07-2022']}]
       }
     }
   ]

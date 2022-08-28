@@ -6,13 +6,13 @@ import 'tachyons';
 import '../styles/custom.tachyons.css';
 
 
-export default (props) => (
+export default ({ children, withFooter = true, withNavbar = true }) => (
   <React.Fragment>
     <Helmet>
       <body className="bg-near-white mid-gray-darker" />
     </Helmet>
-    <Navbar />
-    {props.children}
-    <Footer />
+    { withNavbar ? <Navbar /> : null }
+    {children}
+    { withFooter ? <Footer /> : null }
   </React.Fragment>
 )
