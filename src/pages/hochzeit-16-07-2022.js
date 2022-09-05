@@ -23,7 +23,7 @@ export default ({props, data}) => {
         <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
             <h2 className="f3">Video ansehen</h2>
             <p>Das ca. 12 Minuten lange Video direkt im Browser ansehen.</p>
-            <Link to="/hochzeit-16-07-2022-video" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Jetzt ansehen</Link>
+            <a href="https://www.dropbox.com/s/3sexlz0uxkbvf73/Lara_Jonas_Hochzeit_fertig.mov" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Jetzt ansehen</a>
           </div>
           <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
             <h2 className="f3">Video herunterladen</h2>
