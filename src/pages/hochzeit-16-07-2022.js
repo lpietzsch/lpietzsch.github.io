@@ -32,8 +32,8 @@ export default ({props, data}) => {
           </div>
           <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
             <h2 className="f3">Fotos herunterladen</h2>
-            <p>Die Fotos der Fotografin herunterladen, um sie in Ruhe überall schauen und archivieren zu können.{'\n'}<strong>Passwort: <i>16072022</i></strong></p>
-            <a href="https://ricardaphotoghraphy.pixieset.com/laraundjonashochzeitsreportage/" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Zum Download</a>
+            <p>Die Fotos der Fotografin herunterladen, um sie in Ruhe überall schauen und archivieren zu können.</p>
+            <a href="https://www.dropbox.com/sh/103zwqcfb1gdmjb/AAB-kNfoKxkVjSdTJIrnrHW4a?dl=0" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Zum Download</a>
           </div>
           <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
             <h2 className="f3">Foto-Slideshow</h2>
