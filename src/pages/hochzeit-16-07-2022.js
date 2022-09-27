@@ -40,10 +40,15 @@ export default ({props, data}) => {
             <p>3-minütige Online-Slideshow der Foto-Highlights unserer Fotografin mit Hintergrundmusik.</p>
             <a href="https://ricarda-photoghraphy.smartslides.com/lara-und-jonas-16072022/" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Zur Slideshow</a>
           </div>
-          <div className="tc offset-md-3 col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
-            <h2 className="f3">Fotobox-Fotos herunterladen</h2>
+          <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
+            <h2 className="f3">Fotobox-Fotos ansehen</h2>
             <p>Blickt auf den Spaß zurück, den ihr mit der Fotobox hattet und schaut euch ihre Fotos an.</p>
             <a href="https://www.dropbox.com/sh/qbwl546pyig1frv/AADgq6KBtwh-769Eb7YuemkMa?dl=0" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Zum Download</a>
+          </div>
+          <div className="tc col-md-6" style={{paddingLeft: 30, paddingRight: 30}}>
+            <h2 className="f3">Standesamt-Fotos ansehen</h2>
+            <p>Auch im Standesamt waren einige von uns, da war ja was. Viel Spaß damit.</p>
+            <a href="https://www.dropbox.com/sh/c63l0skfuadhe88/AADDH4pulw0aJwUmDzsYLlU9a?dl=0" target="_blank" className="dib bg-near-black b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">Zum Download</a>
           </div>
         </div>
       </div>
