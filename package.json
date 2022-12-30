@@ -11,7 +11,7 @@
     "deploy:ci": "node deployFromCi.js"
   },
   "dependencies": {
-    "gatsby": "^2.3.25",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.25",
     "gatsby-plugin-feed": "^2.0.11",
     "gatsby-plugin-google-analytics": "^2.0.9",
