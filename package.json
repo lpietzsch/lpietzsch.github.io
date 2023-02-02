@@ -11,13 +11,13 @@
     "deploy:ci": "node deployFromCi.js"
   },
   "dependencies": {
-    "gatsby": "^2.3.25",
+    "gatsby": "^5.5.0",
     "gatsby-image": "^2.0.25",
     "gatsby-plugin-feed": "^2.0.11",
     "gatsby-plugin-google-analytics": "^2.0.9",
     "gatsby-plugin-react-helmet": "^3.0.5",
     "gatsby-plugin-robots-txt": "^1.4.0",
-    "gatsby-plugin-sharp": "^2.0.35",
+    "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-plugin-sitemap": "^2.0.4",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^2.0.8",
