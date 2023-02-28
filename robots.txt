@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /hochzeit-16-07-2022
-Disallow: /hochzeit-16-07-2022/
+Disallow: /
 Sitemap: https://www.lara-pietzsch.de/sitemap.xml
 Host: https://www.lara-pietzsch.de
